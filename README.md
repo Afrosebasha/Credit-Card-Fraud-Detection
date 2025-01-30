@@ -10,6 +10,7 @@ Credit card fraud is a growing concern for financial institutions and consumers,
 For security reasons, the column names in the dataset have been modified. However, the dataset includes a class variable, where:
 - 0 represents a normal transaction
 - 1 represents a fraudulent transaction
+- Link : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ## Data Preprocessing
 
